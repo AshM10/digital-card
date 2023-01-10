@@ -42,9 +42,19 @@
   line-height: 16px;
 }
 
+.--info-email a {
+  text-decoration: none;
+  color: #374151;
+}
+
 .--info-email {
   background-color: #ffffff;
   color: #374151;
+}
+
+.--info-linkedin a {
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .--info-linkedin {

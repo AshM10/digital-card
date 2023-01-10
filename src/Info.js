@@ -11,10 +11,14 @@ export default function Info() {
       <p>ashmoreno.dev</p>
       <div className="--info-buttons">
         <button className="--info-email">
-          <i class="fa-solid fa-envelope"></i> Email
+          <a href="mailto:hello@ashmoreno.dev">
+            <i class="fa-solid fa-envelope"></i> Email
+          </a>
         </button>
         <button className="--info-linkedin">
-          <i class="fa-brands fa-linkedin"></i> LinkedIn
+          <a href="https://www.linkedin.com/in/asthermoreno10/" target="_blank">
+            <i class="fa-brands fa-linkedin"></i> LinkedIn
+          </a>
         </button>
       </div>
     </div>
