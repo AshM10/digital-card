@@ -1,6 +1,6 @@
-# App Name 👩🏼‍💻
+# Digital Card 👩🏼‍💻
 
-A brief description of the app and its purpose.
+React Section 1 Solo Project via Scrimba.
 
 ## Screenshot 🖨️
 
