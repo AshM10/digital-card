@@ -1,0 +1,19 @@
+.Footer {
+  border: 2px solid red;
+  background-color: #161619;
+}
+
+.Footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 5rem;
+}
+
+.Footer ul > li {
+  width: 25px;
+  aspect-ratio: 1;
+  border: 2px solid red;
+  box-sizing: content-box;
+  object-fit: fill;
+}

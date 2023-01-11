@@ -1,4 +1,7 @@
 import Info from "./Info";
+import About from "./About";
+import Interests from "./Interests";
+import Footer from "./Footer";
 import "./App.css";
 
 function App() {
@@ -6,6 +9,9 @@ function App() {
     <div className="App">
       <div className="container">
         <Info />
+        <About />
+        <Interests />
+        <Footer />
       </div>
     </div>
   );

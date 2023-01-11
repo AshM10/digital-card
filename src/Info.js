@@ -5,7 +5,7 @@ import "./info.css";
 export default function Info() {
   return (
     <div className="Info">
-      <img src={myImage} alt="Ash Moreno.s photo" className="--info-image" />
+      <img src={myImage} alt="Ash Moreno" className="--info-image" />
       <h1>Ash Moreno</h1>
       <h2>Frontend Developer</h2>
       <p>ashmoreno.dev</p>
@@ -16,7 +16,11 @@ export default function Info() {
           </a>
         </button>
         <button className="--info-linkedin">
-          <a href="https://www.linkedin.com/in/asthermoreno10/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/asthermoreno10/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i class="fa-brands fa-linkedin"></i> LinkedIn
           </a>
         </button>
