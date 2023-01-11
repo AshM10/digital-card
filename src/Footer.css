@@ -1,6 +1,6 @@
 .Footer {
-  border: 2px solid red;
   background-color: #161619;
+  border-radius: 0 0 8px 8px;
 }
 
 .Footer ul {
@@ -12,8 +12,13 @@
 
 .Footer ul > li {
   width: 25px;
-  aspect-ratio: 1;
-  border: 2px solid red;
-  box-sizing: content-box;
-  object-fit: fill;
+  height: 25px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer a {
+  color: #918e9b;
 }

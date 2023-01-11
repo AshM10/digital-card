@@ -1,5 +1,6 @@
 .App .container {
-  margin: 3rem auto;
+  margin: 1rem auto;
   max-width: 317px;
   background-color: #1a1b21;
+  border-radius: 8px;
 }

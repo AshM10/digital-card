@@ -1,6 +1,7 @@
 .--info-image {
   width: 317px;
   aspect-ratio: 1;
+  border-radius: 8px 8px 0 0;
 }
 
 .Info h1 {
