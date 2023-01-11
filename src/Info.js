@@ -8,7 +8,11 @@ export default function Info() {
       <img src={myImage} alt="Ash Moreno" className="--info-image" />
       <h1>Ash Moreno</h1>
       <h2>Frontend Developer</h2>
-      <p>ashmoreno.dev</p>
+      <p>
+        <a href="https://www.ashmoreno.dev" target="_blank" rel="noreferrer">
+          ashmoreno.dev
+        </a>
+      </p>
       <div className="--info-buttons">
         <button className="--info-email">
           <a href="mailto:hello@ashmoreno.dev">
