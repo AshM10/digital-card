@@ -4,7 +4,8 @@ React Section 1 Solo Project via Scrimba.
 
 ## Screenshot 🖨️
 
-- Photo of the Website
+<img width="496" alt="Screenshot 2023-01-11 at 1 07 33 PM" src="https://user-images.githubusercontent.com/89284873/211897162-82b39142-f6a2-4791-b3ea-e7eea25688dc.png">
+
 
 ## Links 🔗
 
