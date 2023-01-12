@@ -22,6 +22,15 @@
   line-height: 100%;
 }
 
+.--info-portfolio {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.--info-portfolio:active {
+  color: #ffffff;
+}
+
 .Info p {
   text-align: center;
   font-size: 10.24px;

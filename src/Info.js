@@ -9,7 +9,12 @@ export default function Info() {
       <h1>Ash Moreno</h1>
       <h2>Frontend Developer</h2>
       <p>
-        <a href="https://www.ashmoreno.dev" target="_blank" rel="noreferrer">
+        <a
+          href="https://www.ashmoreno.dev"
+          target="_blank"
+          rel="noreferrer"
+          className="--info-portfolio"
+        >
           ashmoreno.dev
         </a>
       </p>

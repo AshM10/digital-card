@@ -12,7 +12,7 @@ This Scrimba project is a digital business card for Ash Moreno, built using Reac
 
 ## Getting Started 🏁
 
-To get started, you'll need to clone the repository to your local machine. Once you have the code, you can use a package manager like npm or yarn to install the dependencies. Once the dependencies are installed, you can start the development server with the command `npm start` .
+To get started, you'll need to clone the repository to your local machine. Once you have the code, you can use npm to install the dependencies. Once the dependencies are installed, you can start the development server with the command `npm start` .
 
 ## Using the Card 🧐
 
