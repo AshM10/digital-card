@@ -6,9 +6,13 @@ This project is a digital business card for Ash Moreno, built using React and ho
 
 <img width="496" alt="Screenshot 2023-01-11 at 1 07 33 PM" src="https://user-images.githubusercontent.com/89284873/211897162-82b39142-f6a2-4791-b3ea-e7eea25688dc.png">
 
+## Link 🔗
+
+- Hosted on Netlify: https://ashmoreno-digital-card.netlify.app
+
 ## Getting Started 🏁
 
-To get started, you'll need to clone the repository to your local machine. Once you have the code, you can use a package manager like npm or yarn to install the dependencies. Once the dependencies are installed, you can start the development server with the command npm start or yarn start.
+To get started, you'll need to clone the repository to your local machine. Once you have the code, you can use a package manager like npm or yarn to install the dependencies. Once the dependencies are installed, you can start the development server with the command `npm start` .
 
 ## Using the Card 🧐
 
