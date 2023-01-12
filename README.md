@@ -1,6 +1,6 @@
 # Ash Moreno's Digital Business Card 👩🏼‍💻
 
-This project is a digital business card for Ash Moreno, built using React and hosted on Scrimba. The card displays information about Ash Moreno, including their background and interests, as well as links to their social media profiles.
+This Scrimba project is a digital business card for Ash Moreno, built using React and hosted on Netlify. The card displays information about Ash Moreno, including their background and interests, as well as links to their social media profiles.
 
 ## Screenshot 🖨️
 
